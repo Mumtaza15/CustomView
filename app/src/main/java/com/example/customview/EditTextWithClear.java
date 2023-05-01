@@ -16,7 +16,6 @@ import androidx.core.content.res.ResourcesCompat;
 
 public class EditTextWithClear extends AppCompatEditText {
 
-
     Drawable mClearButtonImage;
 
     private void init() {
